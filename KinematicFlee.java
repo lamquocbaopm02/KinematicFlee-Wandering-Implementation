@@ -8,7 +8,7 @@ package movement;
 
 /**
  *
- * @author QUOC BAo
+ * @author QUOC BAO
  */
 public class KinematicFlee {
      private Kinematic character;
